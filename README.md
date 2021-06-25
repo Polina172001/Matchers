@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5n5sev5qea8v3ih0?svg=true)](https://ci.appveyor.com/project/Polina172001/matchers)
